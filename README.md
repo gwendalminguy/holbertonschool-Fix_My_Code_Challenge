@@ -1,3 +1,3 @@
-## Fix My Code Challenge
+# Fix My Code Challenge
 
 This is the Fix My Code Challenge repository.
