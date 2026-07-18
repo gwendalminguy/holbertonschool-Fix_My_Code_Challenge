@@ -1,6 +1,6 @@
 ## Challenge
 
-This project is about practicing to fix existing code.
+This project is about practicing to debug and fix existing code, in different languages.
 
 * [0-fizzbuzz.py](https://github.com/gwendalminguy/holbertonschool-Fix_My_Code_Challenge/tree/main/challenge/0-fizzbuzz.py)
 
